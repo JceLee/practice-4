@@ -1,0 +1,1 @@
+// https://jsonplaceholder.typicode.com/todos/2에서 데이터를 받아오고, 그 데이터를 콘솔에 출력하세요.
