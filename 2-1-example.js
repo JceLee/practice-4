@@ -17,7 +17,3 @@ orderCoffee("아메리카노", (error, result) => {
   }
 });
   
-
-
-  
-  
